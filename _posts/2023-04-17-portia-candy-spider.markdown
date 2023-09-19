@@ -2,7 +2,7 @@
 layout: post
 title:  "Meet Portia, The Candy Spewing Spider!"
 date:   2023-04-17 23:55:45 +0000
-categories: maker projects youtube
+tags: maker projects youtube
 ---
 
 # I finally finished making my video of Portia!

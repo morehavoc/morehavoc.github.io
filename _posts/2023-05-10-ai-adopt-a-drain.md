@@ -9,6 +9,9 @@ author: christopher moravec and GPT-4
 > Note: This post is a brief summary of a video I made about using AI to keep names clean and safe in adopt-a-drain programs. I'll update this post when the video is available. This post was made by feeding the transcript of the video into GPT-4 and asking it to write a blog post. It was then edited by me.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BbmepIKACzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 Artificial Intelligence (AI) has become an integral part of our daily lives, from setting timers (via tools like Alexa) to writing code. One particular use of AI that I find interesting is its application in protecting web form inputs. In this blog post, we explore how GPT-4 AI can be used to safeguard input forms across various domains, using the "adopt-a-drain" program as just one example.
 
 Web forms often require users to submit information, ranging from names and email addresses to more sensitive data such as credit card numbers. Ensuring that the submitted information is appropriate and valid is of utmost importance. For instance, in an Adopt-A-Drain program, users may submit creative names for drains that could be inappropriate or offensive. We can use GPT-4 to check those names when the user submits them.

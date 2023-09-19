@@ -5,4 +5,6 @@
 layout: home
 ---
 
+<img src="assets/images/logo.png" style="width:100px;">
+
 I am Christopher Moravec, these are my musings.

@@ -2,7 +2,7 @@
 layout: post
 title:  "OctoPrint Saves Me From a Blue Screen of Death!"
 date:   2023-05-10 12:30:45 +0000
-categories: maker youtube projects
+tags: maker youtube projects
 author: christopher moravec
 ---
 
